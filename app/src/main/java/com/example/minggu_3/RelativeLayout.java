@@ -26,7 +26,7 @@ public class RelativeLayout extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_relative_layout);
 
-        getSupportActionBar().setTitle("Relative Gilang");
+        getSupportActionBar().setTitle("Relative Layout");
 
         tvw=(TextView)findViewById(R.id.textView1);
         eText=(EditText)findViewById(R.id.ediText1);
